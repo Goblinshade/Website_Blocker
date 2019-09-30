@@ -1,6 +1,7 @@
 # Website_Blocker
 
-Python Script To Block List Of Website For Particular Amount Of Time
+Python Script To Block List Of Website For Particular Amount Of Time.
+
 Change The Path Form Hosts To Path Of Your Hosts File.
 
 # Scheduling a Python program on a Windows Computer
